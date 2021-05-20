@@ -42,7 +42,7 @@ If your environment has an on-premises AD footprint and you also want benefit fr
 |   | Password |
 |   | Windows Hello for Business for Win10 |
 | **Device management** | Group Policy |
-|   | Configuration Manager standalone or co-management with Microsoft Intune |
+|   | Configuration Manager standalone, Microsoft Intune, or co-management |
 | **Key capabilities** | SSO to both cloud and on-premises resources |
 |   | Conditional Access through Domain join or through Intune if co-managed |
 |   | Self-service Password Reset and Windows Hello PIN reset on lock screen |
